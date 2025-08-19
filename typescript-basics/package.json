@@ -1,0 +1,23 @@
+{
+  "name": "shridhar_udemy_reacttypescript_project",
+  "version": "1.0.0",
+  "main": "no-typescript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShridharBhande/Shridhar_Udemy_ReactTypescript_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShridharBhande/Shridhar_Udemy_ReactTypescript_Project/issues"
+  },
+  "homepage": "https://github.com/ShridharBhande/Shridhar_Udemy_ReactTypescript_Project#readme",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.9.2"
+  }
+}
